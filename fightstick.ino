@@ -2,32 +2,6 @@
 #include <kaimana.h>
 #include <kaimana_custom.h>
 
-//  example.ino
-//
-//  Copyright 2013 Paradise Arcade Shop, ParadiseArcadeShop.com  
-//  All rights reserved.  Use is subject to license terms.
-//
-//  Code is provided for entertainment purposes and use with the Kaimana controller.
-//  Code may be copied, modified, resused with this Copyright notice.
-//  No commercial use without written permission from Paradise Arcade Shop.
-//
-//  Paradise Arcade Shop Kaimana LED Driver Board
-//  Initial Release October 15, 2013
-//
-//  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-//  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-//  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-//  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-//  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-//  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-//  THE SOFTWARE.
-//
-//  Kaimana example based on original source released by ParadiseArcadeShop.com October 15, 2013
-//
-//  Created:  October 24, 2013    zonbipanda // gmail.com  -- Arduino 1.0.5 Support
-//  Revised:  October 29, 2013    zonbipanda // gmail.com
-//  Revised:  April   11, 2015    zonbipanda // gmail.com  -- Arduino 1.6.3 Support
-//
 
 
 #define __PROG_TYPES_COMPAT__
